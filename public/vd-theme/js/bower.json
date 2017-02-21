@@ -1,0 +1,14 @@
+{
+  "name": "nmc-portal",
+  "homepage": "https://github.com/svvpro/vodafone-nmc-portal-v3",
+  "authors": [
+    "Slobodyanik Vladimir <svvpro@gmail.com>"
+  ],
+  "description": "Information portal",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "font-awesome": "^4.7.0"
+  }
+}
